@@ -5,7 +5,6 @@
 🏫 Soongsil University, Business Administration & Computer Science
 </h3>
 
-<br>
 📈 숭실대학교 광고마케팅 동아리 광미인 부원 (2019.03 ~ 2019.12) <br>
 📈 숭실대학교 광고마케팅 동아리 광미인 운영진 (2020.01 ~ 2020.12) <br>
 👩‍💻 바이브컴퍼니 인공지능랩 전자&패션 감성사전 업무 인턴 (2019.07 ~ 2021.03) <br>
