@@ -2,7 +2,7 @@
 # 송종호 *Song Jong Ho* <br> 
 <h3>
 🧑🏼‍💻 Backend Developer  <br>
-🏫 Soongsil University, Business Administration & Computer Science
+🏫 Soongsil University, Business Administration & Computer Science Engineering
 </h3>
 
 ✨ 숭실대 광고마케팅 동아리 광미인 부원 (2019.03 ~ 2019.12) <br>
