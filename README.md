@@ -15,4 +15,4 @@
 🧑🏼‍💻 렉토피아 IT 교육원 C언어 프로그래밍 수료 (2021.01 ~ 2021.01)<br>
 🦁 멋쟁이사자처럼 9기 수료 (2021.03 ~ 2021.12) <br>
 🇰🇷 한국장학재단 대학생 재능봉사 캠프 코딩교육 봉사(2021.07 ~ 2021.07) <br>
-🟦 [삼성 청년 SW아카데미](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) SSAFY 9기 (2023.01 ~ )<br><br>
+🟦 [삼성 청년 SW아카데미](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) SSAFY 9기 수료 (2023.01 ~ 2023.12)<br><br>
