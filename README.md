@@ -1,4 +1,3 @@
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fghwhdthd&count_bg=%23FFDCDC&title_bg=%23FFB7B7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <h3>
 🧑🏼‍💻 Backend Developer  <br>
@@ -16,3 +15,5 @@
 🦁 멋쟁이사자처럼 9기 수료 (2021.03 ~ 2021.12) <br>
 🇰🇷 한국장학재단 대학생 재능봉사 캠프 코딩교육 봉사(2021.07 ~ 2021.07) <br>
 🟦 [삼성 청년 SW아카데미](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) SSAFY 9기 수료 (2023.01 ~ 2023.12)<br><br>
+<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghwhdthd)](https://solved.ac/ghwhdhd/)
