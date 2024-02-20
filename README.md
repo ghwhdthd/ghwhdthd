@@ -16,7 +16,7 @@
 🇰🇷 한국장학재단 대학생 재능봉사 캠프 코딩교육 봉사(2021.07 ~ 2021.07) <br>
 🟦 [삼성 청년 SW아카데미](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) SSAFY 9기 수료 (2023.01 ~ 2023.12)<br><br>
 <h3> 현재 배포 중인 서비스 </h3>
-- 실시간 노래맞추기 게임 "뮤지큐" https://musiq.site/
+- 노래 빨리 맞추기 게임 "뮤지큐" https://musiq.site/
 
 <br><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghwhdthd)](https://solved.ac/ghwhdhd/)
