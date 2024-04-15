@@ -21,4 +21,7 @@
 <br>
 <h3>🟨 Solved.ac</h3>
 
-[![Solved.ac Profile](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ghwhdthd)](https://solved.ac/profile/ghwhdthd)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ghwhdthd)](https://solved.ac/ghwhdthd)
+<!--
+[![Solved.ac Profile](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ghwhdthd)](https://solved.ac/profile/ghwhdthd) 
+-->
